@@ -1,0 +1,6 @@
+新闻平台爬虫项目：
+bloomberg是周更，bloomberg_home是首页的，bloomberg_new是分模块的，nytimes是daily的
+1.手动，直接在pycharm中执行，或运行 python bloomberg.py，python bloomberg_home.py，python bloomberg_new.py，python nytimes.py
+2.定时，运行new_timing.py，可根据不同的时间调整
+3.海外代理平台，注册开通激活充值http://www.luminati-china.com/contact，
+目前我是在Windows运行，下载lpm软件，按照教程使用，后期可以把代理部署在服务器上，服务器就能访问国外的网站了
